@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Speed.qml</file>
+        <file>Mid.qml</file>
+        <file>Tacho.qml</file>
+        <file>Shift.qml</file>
+    </qresource>
+</RCC>

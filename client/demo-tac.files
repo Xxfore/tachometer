@@ -1,0 +1,3 @@
+app/config.tests/qlibhomescreen/qlibhomescreen.cpp
+app/config.tests/qlibwindowmanager/qlibwindowmanager.cpp
+app/main.cpp

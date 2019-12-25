@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>meters/speed_3.svg</file>
+        <file>meters/speed_7.svg</file>
+        <file>meters/speed_8.svg</file>
+        <file>meters/speed_9.svg</file>
+        <file>meters/tacho_hand.svg</file>
+        <file>meters/tacho_shift_P.svg</file>
+        <file>meters/tacho_shift_R.svg</file>
+        <file>meters/speed_center.svg</file>
+        <file>meters/tacho_shift_N.svg</file>
+        <file>meters/tacho_center.svg</file>
+        <file>meters/tacho_scale.svg</file>
+        <file>meters/speed_5.svg</file>
+        <file>meters/speed_4.svg</file>
+        <file>meters/speed_6.svg</file>
+        <file>meters/speed_2.svg</file>
+        <file>meters/tacho_shift_D.svg</file>
+        <file>meters/speed_0.svg</file>
+        <file>meters/speed_limit_none.svg</file>
+        <file>meters/tacho_frame.svg</file>
+        <file>meters/speed_1.svg</file>
+        <file>meters/speed_kmh.svg</file>
+        <file>meters/speed_mph.svg</file>
+        <file>homescreen/homebg_bottom.svg</file>
+        <file>camera/camera_bg.svg</file>
+        <file>camera/camerainfo_bg.svg</file>
+        <file>mid/mid_S_normal.svg</file>
+        <file>mid/recirc_inter.svg</file>
+        <file>mid/recirc_outer.svg</file>
+        <file>meters/tacho_shift_B.svg</file>
+        <file>meters/tacho_shift_1.svg</file>
+        <file>meters/tacho_shift_2.svg</file>
+        <file>meters/tacho_shift_3.svg</file>
+        <file>meters/tacho_shift_4.svg</file>
+        <file>meters/tacho_shift_5.svg</file>
+        <file>meters/tacho_shift_6.svg</file>
+        <file>mid/mid_other.svg</file>
+    </qresource>
+</RCC>
